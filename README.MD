@@ -3,6 +3,6 @@
 
 ### Usage
 ```shell
-$ python3 windows10downloader.py
+$ python3 windows10spotlight.py
 ```
 This will save all images to `spotlight_images` in the current working directory.
